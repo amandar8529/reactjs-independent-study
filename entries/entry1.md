@@ -15,7 +15,7 @@ ReactJS. Ultimately, I decided to choose React JS, as the topic would
 be challenging enough to push me out of my comfort zone to learn valuable 
 skills, but not so challenging that I would enter, what my class refers to 
 as, <em> The Panic Zone</em>. I had learned a little bit of Javascript 
-previously in my class, so I thought that background knowledge would be 
+previously in my class, so I thought that that background knowledge would be 
 helpful when diving deeper into React Javascript. Overall, I felt 
 learning React JS would not only be an interesting skill to learn and a 
 useful tool in creating projects, but also a marketable skill that could 
@@ -44,15 +44,16 @@ not only how to code in React JS, but why it is useful or the purpose of using t
 I found many articles that praised it's flexibility and efficiency. I also found out that popular sites, 
 such as the New York Times, KhanAcademy, and Instagram use React JS, which was really interesting. 
 After browsing through various articles, I decided to begin coding examples with React JS. 
-I had taken Codecademy lessons in the past, when working with languages such as ruby or javascript, so I searched online to see if the website had 
+I had taken Codecademy lessons in the past, when working with languages such as Ruby or Javascript, so I searched online to see if the website had 
 lessons on React JS and was pleasantly surprised to find that they did. Through taking these lessons, I 
 came across this line of code:
 
     ReactDOM.render(<h1>Hello world</h1>,document.getElementById('app'))
     
-I learned that when writing multi line code in React, you must use 
-parenthesis around the expression. Moreover, when trying to understand 
-this line of code, I decided to break it down. First I learned that 
+I learned that, not only does ReactDOM.render utilize parenthesis, but when writing multi 
+line code in React, you must use parenthesis around the expression. 
+Moreover, when trying to understand this line of code, I decided to break it down. 
+First, I learned that 
 
     ReactDOM.render() 
 is a way of displaying or outputting code in React. I was confused at 
