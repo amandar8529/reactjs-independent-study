@@ -19,7 +19,6 @@ developed utilizing <b>React JS</b>.</p>
     </li>
     <li><b>Practice, Practice, Practice!</b> The more you practice, the more you know.
     The more you know, the more you grow.</li>
-
 </ul>
-<img src="../entries/images/yoda-learn.jpg" style="height:50px, width: 60px;" />
-<img src="../entries/images/dory" style="height:50px, width: 60px;" />
+<center><img src="../entries/images/yoda-learn.jpg" style="height:50px, width: 60px;" /></center>
+<center><img src="../entries/images/dory.jpg" style="height:50px, width: 60px;" /></center>
