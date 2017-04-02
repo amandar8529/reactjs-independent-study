@@ -21,4 +21,4 @@ developed utilizing <b>React JS</b>.</p>
     The more you know, the more you grow.</li>
 </ul>
 <img src="../entries/images/yoda-learn.jpg" style="height:40px, width: 40px;" />
-<img src="../entries/images/dory.jpg" style="height:20px, width: 30px;" />
+<img src="../entries/images/dory.jpg" style="height:20px, width: 30px;, float: right" />
