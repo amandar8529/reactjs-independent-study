@@ -5,7 +5,9 @@ and quizzes provided by <em>CodeAcademy</em> were extremely helpful in the proce
 <p>When I began my second week of independent study, I was only scratching the surface of what <b>React JS</b> can really do. 
 This week was dedicated to growing my knowledge of the basics, as well as, discovering some projects that could be 
 developed utilizing <b>React JS</b>.</p>
-![Learning Meme](images/learntoday.jpeg)
+![](https://github.com/meaganc2976/reactjs-independent-study/blob/master/entries/images/learntoday.jpeg)
+
+<img src="{% static 'entries/images/learntoday.jpeg' %}" >
 
 ### <strong>Takeaways</strong>
 <ul>
