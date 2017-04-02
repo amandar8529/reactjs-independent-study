@@ -4,7 +4,9 @@ I continued to take courses on <em>CodeAcademy</em>. The practice examples, impo
 and quizzes provided by <em>CodeAcademy</em> were extremely helpful in the process of learning and becoming more comfortable with the language. </p>
 <p>When I began my second week of independent study, I was only scratching the surface of what <b>React JS</b> can really do. 
 This week was dedicated to growing my knowledge of the basics, as well as, discovering some projects that could be 
-developed utilizing <b>React JS</b>.</p>
+developed utilizing <b>React JS</b>.
+So I sat myself down in front of the computer, mentally prepared myself
+for the week ahead, and told myself...</p>
 
 <img src="../entries/images/learntoday.jpeg" style="height:100px, width: 200px;" />
 
