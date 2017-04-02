@@ -20,5 +20,5 @@ developed utilizing <b>React JS</b>.</p>
     <li><b>Practice, Practice, Practice!</b> The more you practice, the more you know.
     The more you know, the more you grow.</li>
 </ul>
-<img src="../entries/images/dory.jpg" style="height:20px, width:30px;" />
-<img src="../entries/images/yoda-learn.jpg" style="height:40px, width:40px;" />
+<img src="../entries/images/dory.jpg" />
+<img src="../entries/images/yoda-learn.jpg"/>
