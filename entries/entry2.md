@@ -2,10 +2,10 @@
 <p>In order to grow my knowledge of <b>React JS</b>, 
 I continued to take courses on <em>CodeAcademy</em>. The practice examples, important lessons,
 and quizzes provided by <em>CodeAcademy</em> were extremely helpful in the process of learning and becoming more comfortable with the language. </p>
-<p>When I began my second week on indpendent study, I was only scratching the surface of what <b>React JS</b> can really do. 
+<p>When I began my second week of independent study, I was only scratching the surface of what <b>React JS</b> can really do. 
 This week was dedicated to growing my knowledge of the basics, as well as, discovering some projects that could be 
 developed utilizing <b>React JS</b>.</p>
-<!--![Learning Meme](images/learntoday.jpeg)-->
+![Learning Meme](images/learntoday.jpeg)
 
 ### <strong>Takeaways</strong>
 <ul>
