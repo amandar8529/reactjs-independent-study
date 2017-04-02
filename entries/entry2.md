@@ -6,14 +6,20 @@ and quizzes provided by <em>CodeAcademy</em> were extremely helpful in the proce
 This week was dedicated to growing my knowledge of the basics, as well as, discovering some projects that could be 
 developed utilizing <b>React JS</b>.</p>
 
-
-<img src="../entries/images/learntoday.jpeg" style="height:200px, width: 250px;" />
-
-
+<img src="../entries/images/learntoday.jpeg" style="height:100px, width: 200px;" />
 
 ### <strong>Takeaways</strong>
 <ul>
-    <li>Break down each line of code you are reading in order to figure out what each part means or does</li>
-    <li></li>
-    <li></li>
+    <li>Whenever you are faced with something you do not understand, to
+    make it easier, it is helpful to <b>break it down</b>. 
+    Step by step is the way to go! <b>Every step matters, no matter how small</b>.
+    In terms of coding,
+    I found that it is beneficial to break apart each line of code and analyze it
+    so that I can better understand the meaning or purpose of each part.
+    </li>
+    <li><b>Practice, Practice, Practice!</b> The more you practice, the more you know.
+    The more you know, the more you grow.</li>
+
 </ul>
+<img src="../entries/images/yoda-learn.jpg" style="height:50px, width: 60px;" />
+<img src="../entries/images/dory" style="height:50px, width: 60px;" />
