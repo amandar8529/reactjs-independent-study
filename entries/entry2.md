@@ -28,7 +28,7 @@ variable.
 While studying on <em>Codecademy</em>, I would compare new knowledge
 to my own prior knowledge. For instance, I recognized, through 
 looking at the example code provided by Codecademy, that if 
-else statements in JSX do not have an end, it is simply and if/else 
+else statements in JSX do not have an end, it is simply an if/else 
 statement. 
 
 Also, ```React.createClass()```creates a component class that is like a factory for 
