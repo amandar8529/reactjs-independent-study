@@ -7,7 +7,7 @@ This week was dedicated to growing my knowledge of the basics, as well as, disco
 developed utilizing <b>React JS</b>.</p>
 
 
-<img src="../entries/images/learntoday.jpeg" style="width: 300px;" />
+<img src="../entries/images/learntoday.jpeg" style="height:200px, width: 250px;" />
 
 
 
