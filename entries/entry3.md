@@ -1,11 +1,11 @@
 
 # <center>Entry 3: Tinker, Tinker, Tinker!</center>
-<img src="../entries/images/tinker.gif"/>
+<img src="../entries/images/tinker.gif" style="height:50px, width: 50px;" />
 
 
-<p>During this week of independent study, I continued to learn React JS through Codecademy, and then decided to tinker around with an example code found on CodePen. It is during my search of a simple example utilizing React JS that I found the site Code Pen, which is similar to the website JSbin that I had used previously in my software engineering class. </p>
+<p>During this week of independent study, I continued to learn React JS through Codecademy, and then decided to tinker around with an example code found on CodePen. It was during my search of a simple example utilizing React JS that I found the site Code Pen, which is similar to the website JSbin that I had used previously in my software engineering class. </p>
 <br>
-<p>After searching through many different websites or examples in order to find a project that utilized only React JS, rather than a combination of react js and other languages, I found a basic to do list project. I utilized the project in order to test out what could be created with react js and to get more practice coding with the language. When looking over the code, I tried commenting out certain lines of code do identity its purpose, as well as, changed certain values in order to get a better sense of how the code worked. I tried breaking it down line by line in order to comprehend the importance and function of every line. </p>
+<p>After searching through many different websites or examples in order to find a project that utilized only React JS, rather than a combination of react js and other languages, I found a basic to do list project. I utilized the project in order to test out what could be created with react js and to get more practice coding with the language. When looking over the code, I tried commenting out certain lines of code to identity its purpose, as well as, changed certain values in order to get a better sense of how the code worked. I tried breaking it down line by line in order to comprehend the importance and function of every line. </p>
 
 #### HTML
 
@@ -18,18 +18,17 @@
 <p>This is the place in the html where the javascript will render, in other words, the to do list will be displayed within this div</p>
 
 ```javascript
-<script type="text/jsx">
-    /** @jsx React.DOM */
-
     var TodoBanner = React.createClass({
       render: function(){
         return (
           <h3>Todo List</h3>
         );
       }
-    });
+    }); 
 ```
+    
 <p>This begins using react js. This code refers to the banner or heading on top of the to do list</p>
+
 
 ```javascript
  var TodoList = React.createClass({
@@ -76,6 +75,7 @@
         return;
       },
 ```
+      
 <p>This code works to return the user input of the item </p>
 
 ```javascript
@@ -162,13 +162,14 @@ input[type=submit] {
   width: 250px;
   margin: 5em auto;
 /*   border: 1px solid #ddd; */
-}```
+}
+```
 
 <p>Next, I would like to learn how to create a more complex example or possibly add on to this to do list. For example, figuring out how to use react js to make it so that items can be checked off or crossed off the to do list. </p>
 
 ### Takeways
 <ul>
-	<li>Do not be discouraged if you do not understand something at first.<strong>Persevere!</strong> It is okay to be a beginner. It is okay to be confused, just as long as you do not give up and allow yourself to be a beginner or take time to learn or understand something</strong></li>
+	<li>Do not be discouraged if you do not understand something at first. <strong>Persevere!</strong> It is okay to be a beginner. It is okay to be confused, just as long as you do not give up and allow yourself to be a beginner or take time to learn or understand something</strong></li>
 	<li>There is no one way or right way to learn, use what works for you or what enables you to comprehend the most information</li>
 	<li>What is most important is not how much you know, but what you <strong>DO</strong> with what you know. I utilized basic knowledge learned from Codecademy to tinker with a simple react js project. Through tinkering, I was able to learn more or enhance my comprehension of the topic. I also started off with a simple project so as not to overwhelm myself or to prevent myself from stepping into the <em>Panic Zone</em> </li>
 </ul>
@@ -177,9 +178,9 @@ input[type=submit] {
 
 ### Resources
 <ul>
-    <li>Codecademy</li>
-    <li>http://codepen.io/anon/pen/JWgRvB</li>
-    <li>http://pankajparashar.com/posts/todo-app-react-js/</li>
+    <strong><li>Codecademy</li></strong>
+    <strong><li>http://codepen.io/anon/pen/JWgRvB</li></strong>
+    <strong><li>http://pankajparashar.com/posts/todo-app-react-js/</li></strong>
 <ul>
 
 
