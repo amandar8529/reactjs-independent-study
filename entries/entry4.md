@@ -1,5 +1,4 @@
 # <center>Entry 4: Learn and Tinker</center>
-<img src="../entries/images/tinker2.jpg" />
 <img src="../entries/images/brain.jpg"/>
 <p>Throughout the week, I continued learning on Codecademy, but then I decided to switch learning gears and try coding a small project to better understand React JS. I was still confused on what exactly could be created using React JS, so I searched through many articles and examples online until I found an article with a step by step tutorial on making a simple React JS project. </p>
 
