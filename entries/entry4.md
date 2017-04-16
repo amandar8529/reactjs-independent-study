@@ -4,7 +4,7 @@
 <p>Throughout the week, I continued learning on Codecademy, but then I decided to switch learning gears and try coding a small project to better understand React JS. I was still confused on what exactly could be created using React JS, so I searched through many articles and examples online until I found an article with a step by step tutorial on making a simple React JS project. </p>
 
 <p>I started with the view of the intended outcome:</p>
-<img src="../entries/images/project" />
+<img src="../entries/images/project.png"style="height:100px, width: 200px;" />
 <p>And with the information that everything on this page was part of a component. The article taught me to look for the main component or what everything else is inside of and then to visualize it in a different way:</p>
 <br>
 <ul>
