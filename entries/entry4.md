@@ -58,3 +58,6 @@ hobbyList={this.props.profileData.hobbyList} />
 <li><b>Explore</b> different learning methods and try to <b>find what works for you</b> or what type of learner you are</li>
 
 </ul>
+
+### <strong>Resources:</strong>
+https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc
