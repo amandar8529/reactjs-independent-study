@@ -1,6 +1,6 @@
 
 # <center>Entry 3: Tinker, Tinker, Tinker!</center>
-<img src="../entries/images/tinker2.jpg" style="height:20px, width:20px;" />
+<img src="../entries/images/tinker2.jpg" />
 
 
 <p>During this week of independent study, I continued to learn React JS through Codecademy, and then decided to tinker around with an example code found on CodePen. It was during my search of a simple example utilizing React JS that I found the site Code Pen, which is similar to the website JSbin that I had used previously in my software engineering class. </p>
