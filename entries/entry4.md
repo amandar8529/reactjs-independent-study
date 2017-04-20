@@ -1,10 +1,10 @@
-# <center>Entry 4: Learn and Tinker</center>
+# <center>Entry 4: Practice Makes Progress</center>
 <img src="../entries/images/brain.jpg"/>
 <p>Throughout the week, I continued learning on Codecademy, but then I decided to switch learning gears and try coding a small project to better understand React JS. I was still confused on what exactly could be created using React JS, so I searched through many articles and examples online until I found an article with a step by step tutorial on making a simple React JS project. </p>
 
 <p>I started with the view of the intended outcome:</p>
 <img src="../entries/images/project.png"style="height:100px, width: 200px;" />
-<p>And with the information that everything on this page was part of a component. The article taught me to look for the main component or what everything else is inside of and then to visualize it in a different way:</p>
+<p>I learned that everything on this page was part of a component. The article taught me to look for the main component or what everything else is inside of and then to visualize it in a different way:</p>
 <br>
 <ul>
 <li>App</li>
@@ -13,7 +13,7 @@
 </ul>
 <br>
 
-<p>I was currently learning about components in React JS, and when I found the tutorial online, the project reinforced the topics I was learning on Codecademy. Visualizing the information of Codecademy or seeing the code in action so to speak, was extremely helpful in my understanding of the language. </p>
+<p>I was currently learning about components in React JS, and when I found the tutorial online, the project reinforced the topics I was learning on Codecademy. Visualizing the information provided by Codecademy or seeing the code in action, so to speak, was extremely helpful in my understanding of the language. </p>
 
 <p>From the tutorial, I was able to become familiar with coding React JS in Cloud9. The article provided me with a coding template to clone into my own workspace. I also learned how to code React JS within an HTML page or that the React JS code belongs in between these tags:</p>
 
@@ -24,16 +24,16 @@
 ```
 
 
-<p>I also learned, from both Codecademy and the tutorial, that</p>
+<p>I also realized, from both Codecademy and the tutorial, that</p>
 
-```
+```javascript
 React.createClass()
 ```
 <p>creates a component</p>
 
 <p>The project within the tutorial utilizes data from another source, or made me realize that I could use APIs, a previously learned topic, as the data a React JS project could take in </p>
 
-<p>I also learned that data in React JS follows a one directional flow, or is transferred from the parent to child components. So this code:</p>
+<p>I also learned that data in React JS follows a <b>one directional flow</b>, or is transferred from the parent to child components. So this code:</p>
 
 ```javascript
 <Profile
