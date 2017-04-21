@@ -4,7 +4,7 @@
 <h3>Codecademy</h3>
 <p>The majority of my week consisted of learning through the tutorials provided by Codecademy. 
 A big takeaway for me was learning exactly what <code>this</code> means. 
-this example helped me to understand the function of <code>this</code> a bit better.</p>
+The following example helped me to understand the function of <code>this</code> a bit better.</p>
 
 ```javascript
 var React = require('react');
