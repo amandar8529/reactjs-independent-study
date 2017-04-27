@@ -3,11 +3,12 @@
 <p>Through Codecademy tutorials, I learned a lot about component interaction. For instance, a component can interact with another component in two ways: </p>
 <ol>
 	<li>A component can render another component, like so:</li>
-<p>Within profilepage.js this line of code is inserted so that the Navbar file is rendered</p>
 
 ```javascript
 ReactDOM.render(<NavBar />)
 ```
+<p>Within profilepage.js this line of code is inserted so that the Navbar file is rendered</p>
+
   <li>A component can also pass data to another component</li>
 <img src="../entries/images/interaction.png"/>
 <p>The information that is passed between components is called “props”</p>
@@ -98,7 +99,7 @@ ReactDOM.render(<Timer />, mountNode);
 <p>I could sprinkle some react js on my Book-o-mmender website</p>
 <img src="../entries/images/confetti.jpg"/>
 <p>I could possibly add react js animations, a gradual change of the background color 
-tint or an insertion of  a map so users could find book stores near them.</p>
+tintor an insertion of  a map so users could find book stores near them.</p>
 <img src="../entries/images/thinkingcap.png"/>
 
 <h3>Takeaways</h3>
