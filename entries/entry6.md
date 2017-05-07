@@ -43,8 +43,8 @@ that is used to pass the event handler. The prop name is usually a name such as,
 
 <h3>Takeaways</h3>
 <ul>
-	<li>Planning before creating or making to do lists is a helpful tool for the organization of ideas or thoughts. List-making is helpful in making the process of getting started a little easier. </li>
-	<li>Creating by yourself can be beneficial, but it is also fun and rewarding to collaborate with others. Every person has something they bring to the table and by combining every person’s knowledge or efforts, ideas can turn into realities and amazing things can be created. </li>
+	<li><b>Planning</b> before creating or making <b>to do lists</b> is a helpful tool for the organization of ideas or thoughts. List-making is helpful in making the process of getting started a little easier. </li>
+	<li>Creating by yourself can be beneficial, but it is also fun and rewarding to <b>collaborate</b> with others. Every person has something they bring to the table and by combining every person’s knowledge or efforts, ideas can turn into realities and amazing things can be created. </li>
 <img src="../entries/images/teamwork.jpg"/>
 </ul>
 
