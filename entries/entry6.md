@@ -9,8 +9,7 @@
 	<li>Create a navbar on the results page with a cart icon that, when clicked, will send the user to a page with their Book-o-bag/book  wish list (numbered list with book titles/ image covers/ description) </li>
 		<ul>On the NavBar, the title of the app (Book-o-mmender would be to the left (float: left) and the cart icon would be to the right (float: right)</ul>
 	<li>On the results page, next to each recommended book, there should be a plus icon that, when clicked, adds that book to the user’s Book-o-bag</li>
-		<ul>When the user clicks on the plus icon there should b
-		e some sort of notification that alerts the user that the book title has been added
+		<ul>When the user clicks on the plus icon there should be some sort of notification that alerts the user that the book title has been added
 		to their Book-o-bag</ul>
 	<li>Book-o-bag page could have fade in books from React JS animations (smooth fade in
 	using React flip) I learned that react-flip is a way of using animations or makes a 
