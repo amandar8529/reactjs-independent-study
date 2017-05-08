@@ -6,3 +6,4 @@
 * #### [Entry 4: Practice Makes Progress](entries/entry4.md)
 * #### [Entry 5: Component Interaction and Final Project Brainstorm](entries/entry5.md)
 * #### [Entry 6: Book-o-mmender Brainstorm](entries/entry6.md)
+* #### [Entry 7:](entries/entry7.md)

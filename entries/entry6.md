@@ -1,4 +1,4 @@
-# <center>Entry 5: Book-o-mmender Brainstorm</center>
+# <center>Entry 6: Book-o-mmender Brainstorm</center>
 <p>After completing a few lessons on Codecademy to continue growing my knowledge of React JS, I decided to look at various articles to find inspiration for my final project. I wanted to see what React JS components I could add to my previously made Book-o-mmender app. My partners for this previous project, Mei Ting and Raveena, helped me to decide what to make for the final project. Utilizing the knowledge we all learned in our independent studies, we plan on collaborating to add a book wish list or Book-o-bag for users to keep track of the books they want to read.</p> 
 
 [Link to the Book-o-mmender app](http://book-o-mmender.herokuapp.com)
