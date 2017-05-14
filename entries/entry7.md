@@ -1,5 +1,5 @@
 # <center>Entry 7: Just Keep Swimming </center>
-<img src="../entries/images/swim.jpg"/>
+<img src="../entries/images/swimming.jpg"/>
 <p>Throughout this week, I have continued to swim through the depths of the 
 react js ocean. I have been continuing to plan, brainstorm, 
 and work on my final project. I have been looking through many, many, many, many, many... many articles 
