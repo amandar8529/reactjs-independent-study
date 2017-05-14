@@ -1,5 +1,5 @@
 # <center>Entry 7: Just Keep Swimming </center>
-<img src="../entries/images/images.jpeg"/>
+<img src="../entries/images/swim.jpg"/>
 <p>Throughout this week, I have continued to swim through the depths of the 
 react js ocean. I have been continuing to plan, brainstorm, 
 and work on my final project. I have been looking through many, many, many, many, many... many articles 
@@ -11,9 +11,11 @@ return to the code in order to add more functionality.  </p>
 <p>The biggest struggle I had this week was figuring out how to code react js in c9. I had looked at many different 
 articles stating how to install react js on c9, but every one I looked at was different in some way, leaving me 
 very confused. </p>
-<img src="../entries/images/confused.jpeg"/>
+<img src="../entries/images/confused.jpg"/>
+<img src="../entries/images/confused2.jpg"/>
+<img src="../entries/images/confused3.jpg"/>
 <p>I decided to use my peers, who were also working on react js, as resources for assistance. However, in order to make more efficient use of my time, I decided to find and tinker with code in the meantime that I could use for the website. </p>
-<p>For instance, the code below utilizes react js to create a button that, when 
+<p>For instance, I learned how to create a button in react js, as well as how to utilize a previosuly known concept, the alert function, within the react js language. The code below utilizes react js to create a button that, when 
 clicked, alerts the user that the book next to that button has been added to their Book-o-Bag.</p>
 
 ```javascript
