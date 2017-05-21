@@ -35,6 +35,8 @@ the website. For now, because the functionality will not be complete yet,
 when the backpack icon is clicked, the user will be alerted that there are 
 currently no books in their Book-o-Bag yet. </p>
 
+ <img src="../entries/images/bag.png"/>
+
 ### Takeaways
 <ul>
     <li><b>Adaptability is key</b>. Sometimes you just have to roll 
