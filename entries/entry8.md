@@ -46,7 +46,7 @@ currently no books in their Book-o-Bag yet. </p>
     I wanted to utilize in my own project. However, sometimes you have 
     to do a lot of digging to find what is helpful to you or what you are 
     really looking for. </li>
-    <img src="../entries/images/digging.jpg"/>
+    <img src="../entries/images/digging.JPG"/>
 </ul>
 
 ### Resources:
