@@ -7,3 +7,4 @@
 * #### [Entry 5: Component Interaction and Final Project Brainstorm](entries/entry5.md)
 * #### [Entry 6: Book-o-mmender Brainstorm](entries/entry6.md)
 * #### [Entry 7: Just Keep Swimming](entries/entry7.md)
+* #### [Entry 8: Curtain Call](entries/entry8.md)
