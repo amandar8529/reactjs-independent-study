@@ -1,5 +1,5 @@
 # <center>Entry 8: Curtain Call </center>
-<img src="../entries/images/curtain.jpg"/>
+<img src="../entries/images/closingcurtain.jpg"/>
 <p>My independent study is coming to an end. 
 During my second to last week of my independent study into react js, 
 I continued to work on my final project. As a result of my difficulties with 
