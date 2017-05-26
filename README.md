@@ -9,4 +9,5 @@
 * #### [Entry 7: Just Keep Swimming](entries/entry7.md)
 * #### [Entry 8: Curtain Call](entries/entry8.md)
 <br>
+
 * #### [Final Project: React JS Tutorial](reactjs-tutorial/readme.md)
