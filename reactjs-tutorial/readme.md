@@ -39,7 +39,7 @@ document.getElementById('app'))
 
 [Sites that use React JS](https://www.coderfactoryacademy.edu.au/posts/32-sites-built-with-reactjs)
 <br>
-[5 Practical Examples](9http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
+[5 Practical Examples](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
 <br>
 [Password Strength Meter](http://reactkungfu.com/showcases/password-strength-meter/)
 <br>
