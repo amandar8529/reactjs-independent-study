@@ -13,9 +13,9 @@
 ### Components
 <ul>
     <li><b>everything</b> in React JS is a component</li>
-    <li>data is passed between components through the use of props</li>
-    <li>the data flow between components is one directional because 
+       <li>the data flow between components is one directional because 
     the main component keeps track of everything inside of it</li>
+    <li>information is passed between components through the use of <b>props</b></li>
 </li>
 </ul>
 <img src="../entries/images/interaction.png"/>
