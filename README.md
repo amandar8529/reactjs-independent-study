@@ -11,3 +11,4 @@
 <br>
 
 * #### [Final Project: React JS Tutorial](reactjs-tutorial/readme.md)
+* #### [Presentation: React JS](https://docs.google.com/presentation/d/16y9YUvbwWYI2hCiTPm5lrEwsnUidi--qbkUKC6cYLUA/edit#slide=id.p)
